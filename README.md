@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/NerijusNoreika/article-preview-component)
-- Live Site URL: [Add live site URL here](https://nerijusnoreika.github.io/article-preview-component)
+- Solution URL: [LINK](https://github.com/NerijusNoreika/article-preview-component)
+- Live Site URL: [LINk](https://nerijusnoreika.github.io/article-preview-component)
 
 ## My process
 
